@@ -1,0 +1,22 @@
+1. Create a new Vue 3 project
+    - install Axios
+    - install Tailwind
+2. Set up App.vue file (menu)
+3. Create static signup pageSet v
+4. Create static login page
+5. Create static feed page
+6. Create static messages page
+7. Create static search page
+8. Make PeopleYouMayKnow and Trends component
+9. Create a toast component
+10. Setup backend
+    - create venv
+    - install Django 4.2
+    - install djangorestframework
+    - install djangorestframework-simplejwt
+    - install pillow
+    - Create Django project
+    - Set up everything
+
+
+
